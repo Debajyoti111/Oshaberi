@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST={"..\\components\\ChatInput.js -> emoji-picker-react":{"id":"..\\components\\ChatInput.js -> emoji-picker-react","files":["static/chunks/node_modules_emoji-picker-react_dist_index_js.js"]}}
