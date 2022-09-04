@@ -25,11 +25,6 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/auth/register": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/auth/register.js"
-    ],
     "/chat/page": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",

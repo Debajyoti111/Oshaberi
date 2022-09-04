@@ -2,6 +2,7 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/chat/profile": "pages/chat/profile.js",
-  "/chat/page": "pages/chat/page.js"
+  "/auth/login": "pages/auth/login.js",
+  "/auth/register": "pages/auth/register.js",
+  "/chat/profile": "pages/chat/profile.js"
 }

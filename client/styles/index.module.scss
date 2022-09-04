@@ -1,0 +1,93 @@
+.homeContainer{
+    display: grid;
+    grid-template-columns: 75% 25%;
+    grid-template-rows: 100%;
+    align-items: center;
+    overflow: hidden;
+    height: 100vh;
+    width: 100vw;
+    background-image: url("../assets/background2.jpg");
+    .homeImage{
+        text-align: center;
+        padding: 10px;
+    }
+    .homeBrand{
+        width: 800px;
+        height: 500px;
+        margin-left: 100px;
+        border-radius: 2rem;
+        background-color: #e30650;
+        display: flex;
+        align-items: center;
+        flex-direction: row;
+        -ms-flex-align: center;
+        -ms-flex-direction: row;
+        gap: 1rem;
+        justify-content: center;
+        color: white;
+        font-weight: bold;
+        text-align: center;
+        h1{
+            font-size: 3rem;
+            padding: 10px;
+            transition: 0.5s ease-in-out;
+            &:hover{
+                color: #d9ff00;
+            }
+        }
+        h2{
+            font-size: 1.5rem;
+            padding: 10px;
+            transition: 0.5s ease-in-out;
+            &:hover{
+                color: #d9ff00;
+                border-color: #d9ff00;
+            }
+        }
+    }
+    .homeLinks{
+        width: 300px;
+        height: 400px;
+        background-color: #e30650;
+        color: white;
+        display: flex;
+        border-radius: 2rem;
+        flex-direction: row;
+        -ms-flex-direction: row;
+        gap: 1rem;
+        justify-content: center;
+        align-items: center;
+        font-weight: bold;
+        text-align: center;
+        .content{
+            color: rgb(232, 232, 232);
+            bottom: 0.5rem;
+            font-weight: lighter;
+            font-size: 1.2rem;
+        }
+        .link{
+            font-size: 1.2rem;
+            padding: 10px;
+            border: white 0.3rem solid;
+            border-radius: 0.2rem;
+            transition: 0.5s ease-in-out;
+            margin-top: 20px;
+            &:hover{
+                color: #A10035;
+                border-color: #A10035;
+            }
+        }
+        a{
+            text-decoration: none;
+            color: white;
+        }
+        .circle{
+            width: 20px;
+            height: 20px;
+            border-radius: 100%;
+            background-color: white;
+            margin: 0 45%;
+        }
+
+    }
+}

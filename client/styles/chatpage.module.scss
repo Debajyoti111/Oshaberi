@@ -8,10 +8,12 @@
     gap: 1rem;
     align-items: center;
     background-color: #7a0029;
+    background-image: url("../assets/background3.jpg");
+    
     .container {
       height: 85vh;
       width: 85vw;
-      background-color: #450117;
+      background-color: #7a0029;
       display: grid;
       grid-template-columns: 25% 75%;
       @media screen and (min-width: 720px) and (max-width: 1080px) {
