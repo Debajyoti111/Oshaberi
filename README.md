@@ -21,7 +21,7 @@ npm run dev
 ```
 <hr>
 
-#Future Plans
+# Future Plans
 
 Things that can be done to further improve the website is-
  - Instead of showing all the users available, make a friend-request system so that an user will only have those users who they actually know. 
