@@ -17,7 +17,6 @@ Then in server and client directory, run the following two commands respectivel-
 npm run start:dev
 
 npm run dev
-
 ```
 <hr>
 
